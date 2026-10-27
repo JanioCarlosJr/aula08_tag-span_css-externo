@@ -1,0 +1,87 @@
+
+body {
+    background-color: rgb(213, 235, 248);
+}
+
+.identificacao-card {
+    color: black;
+    line-height: 6px;
+    margin-bottom: 30px;    
+}
+
+p {
+    color: gray;
+}
+
+.card-perfil {
+    border-radius: 10px;
+    background-color: white; 
+    padding: 20px;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: gray;     
+}
+
+.avatar {
+    width: 100px;
+    background-color: rgb(213, 235, 248);
+    border-radius: 60px;
+    padding: 7px;   
+}
+
+.badges {
+    margin-top: 25px;
+    margin-bottom: 25px;
+} 
+
+.badge-html {
+    background-color: rgb(255, 222, 222);
+    color: red;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-weight: bold;    
+}
+
+.badge-css3 {
+    background-color: rgb(215, 235, 248);
+    color: blue;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-weight: bold;
+}
+
+.badge-git {
+    background-color: rgb(248, 230, 191);
+    color: rgb(255, 123, 0);
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-weight: bold;
+}
+
+.destaque-senai {
+    color: rgb(87, 87, 241);
+    font-weight: bolder;
+    text-decoration:underline;
+}
+
+.badge-status {
+    color: green;
+    background-color: rgb(198, 248, 198);
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 15px;                   
+}
+
