@@ -22,7 +22,8 @@ p {
     margin: auto;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
-    color: gray;     
+    color: gray;
+    box-shadow: 0 0 16px;     
 }
 
 .avatar {
